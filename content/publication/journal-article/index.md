@@ -1,5 +1,9 @@
 ---
 title: "An example journal article"
+
+# Is this an unpublished draft?
+draft: true
+
 authors:
 - admin
 - Robert Ford
