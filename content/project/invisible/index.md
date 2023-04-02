@@ -4,6 +4,8 @@ subtitle:
 summary: A single-player puzzle game with spooky atmosphere.
 tags:
   - Game
+  - Unity
+  - Clip Studio Paint
 date: '2021-01-01'
 
 # Optional external URL for project (replaces project detail page).

@@ -4,6 +4,8 @@ subtitle: Everyone Can Be a Teacher
 summary: A useful education platform for everyone.
 tags:
   - Coding
+  - React.js
+  - Web Development
 date: '2022-01-01'
 
 # Optional external URL for project (replaces project detail page).

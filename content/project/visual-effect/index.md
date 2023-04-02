@@ -4,6 +4,7 @@ subtitle: A simple practice to create VFX video using Blender.
 summary: A simple practice to create VFX video using Blender.
 tags:
   - Art
+  - Blender
 date: '2022-05-01'
 
 # Optional external URL for project (replaces project detail page).

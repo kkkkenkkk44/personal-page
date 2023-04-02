@@ -4,6 +4,7 @@ subtitle:
 summary: A classification for massive news with BERT.
 tags:
   - Coding
+  - BERT
 date: '2021-12-01'
 
 # Optional external URL for project (replaces project detail page).

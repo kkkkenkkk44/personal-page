@@ -4,6 +4,7 @@ subtitle: A basic practice to create multiple 3D mugs using Blender.
 summary: A basic practice to create multiple 3D mugs using Blender.
 tags:
   - Art
+  - Blender
 date: '2022-04-01'
 
 # Optional external URL for project (replaces project detail page).
