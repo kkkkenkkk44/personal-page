@@ -46,9 +46,6 @@ After the new policy on education in Taiwan, the role of IT field in education h
 
 # Core Features
 
-
-{{< figure src="images/codai-4.jpg" caption="" numbered="true" >}}
-
 <table>
   <tr>
     <td><img src="images/codai-2.png" title="Sharing materials"></td>
