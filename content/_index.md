@@ -99,7 +99,8 @@ sections:
           date_start: '2023-06-01'
           date_end: ''
           description: |2-
-              * N/A
+              * Researched methods for cross-modal human motion generation
+              * Analyzed SOTA methods for nonlinear human video interpolation
     design:
       columns: '2'
   # - block: accomplishments
