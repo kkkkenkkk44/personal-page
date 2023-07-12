@@ -22,7 +22,7 @@ organizations:
     url: https://www.ntu.edu.tw/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include artificial intelligence, machine learning, and game development.
+bio: My interests include computer vision, computer graphics, game development, and machine learning.
 
 # Interests to show in About widget
 interests:
@@ -73,5 +73,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Hi, I am a full-time research assistant at [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/zh/index.html) in Taiwan, where I am advised by [Dr. Jen-Chun Lin](https://sites.google.com/site/jenchunlin/)
 
-Hello, I am Chun-Chih (Ken) Yang. I major in Information Management at National Taiwan University. I am fascinated by games and machine learning techniques so I want to further research related fields. In addition, I also enjoy playing basketball with my friends in my leisure time. Thanks for having me!
+My research interests include  computer vision, machine learning, and game development.
+Currently, I am working on research about cross-modal 3D human motion generation.
+
+Previously, I earned my undergraduate degree at [National Taiwan University](https://www.ntu.edu.tw/), majoring in [Information Management](https://management.ntu.edu.tw/IM)
+
+
