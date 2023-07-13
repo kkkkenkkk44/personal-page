@@ -26,7 +26,8 @@ bio: My interests include computer vision, computer graphics, game development, 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Computer Vision
+  - Computer Graphics
   - Machine Learning
   - Game Development
 
